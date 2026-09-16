@@ -1,0 +1,15 @@
+out/
+corpus/
+data/
+release/projects/
+__pycache__/
+*.pyc
+.env
+modal/adapter/
+modal/adapter_raw/
+modal/base_skeleton/
+modal/*.json
+reference/
+RESULTS.md
+blog/
+modal/REPORT.md

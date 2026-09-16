@@ -1,0 +1,91 @@
+[
+ {
+  "file": "DATASET_CARD.md",
+  "rows": null,
+  "bytes": 8662,
+  "sha256": "2c6756688152c5ffb4228fdde804cde91ec5f6d98fbe2fd49c8c0a9f679cfe35"
+ },
+ {
+  "file": "multi2_heldout.jsonl",
+  "rows": 30,
+  "bytes": 423509,
+  "sha256": "d99ae93c60902253da7e3f41124005df1989edfc654b9b9f86dbd7d09ec5daf4"
+ },
+ {
+  "file": "multi2_train.jsonl",
+  "rows": 87,
+  "bytes": 1502107,
+  "sha256": "ca77b2bb3a7d57041079181dafb93d8a27c02f8e2696871653e01762b21d3d9c"
+ },
+ {
+  "file": "refs.json",
+  "rows": null,
+  "bytes": 5795726,
+  "sha256": "20ed394e7be15728b8f450cbb207aa2a316253dd387536095ad68dc78c440347"
+ },
+ {
+  "file": "refs_verified.json",
+  "rows": null,
+  "bytes": 510066,
+  "sha256": "19ca1d55133b0b800fdf7945dc03881e8e6cd1b1b4fd623f791de17effbeb32c"
+ },
+ {
+  "file": "skew_eval.jsonl",
+  "rows": 184,
+  "bytes": 133737,
+  "sha256": "07bebcf6ac1d8db0e219ef60339f61ad6084ab71143e50136f5f365df1ddb629"
+ },
+ {
+  "file": "skew_multi_heldout.jsonl",
+  "rows": 200,
+  "bytes": 167903,
+  "sha256": "41c9a444c8f103b66866d2e96ad665f59afed20a1eefeab19247304569b7e23e"
+ },
+ {
+  "file": "skew_train.jsonl",
+  "rows": 1628,
+  "bytes": 1365327,
+  "sha256": "8f78c04dd7f015c806bff10296ce8b35dad17d7abe18dccf2c5a9da2bb54a7f9"
+ },
+ {
+  "file": "texse2_heldout.jsonl",
+  "rows": 647,
+  "bytes": 4512177,
+  "sha256": "07959ccd8e66c0fd6a5629ef9504d185338c8dcbf238e805b6a738076b17dbf2"
+ },
+ {
+  "file": "texse2_pool.jsonl",
+  "rows": 3923,
+  "bytes": 24689542,
+  "sha256": "bffc3cb0a954c3cc90968b9d8f0308ec6c76fca16894dc61d0b28c315465551a"
+ },
+ {
+  "file": "texse2_train.jsonl",
+  "rows": 2122,
+  "bytes": 14980995,
+  "sha256": "0322c0e694ce488cdc59259304619bde410136c6bb1d37c3ab1f0375370f9e50"
+ },
+ {
+  "file": "texse_heldout.jsonl",
+  "rows": 287,
+  "bytes": 1860245,
+  "sha256": "0d22e9f7e114041342af33a0fd4b7157673c7c90f54c6266a6b219a1cb5673b6"
+ },
+ {
+  "file": "texse_pool.jsonl",
+  "rows": 1774,
+  "bytes": 9866699,
+  "sha256": "2b4531b2e64970a39b051683e4507b1d1ca17c6e97b6c51d145f90c40ebf444a"
+ },
+ {
+  "file": "texse_train.jsonl",
+  "rows": 922,
+  "bytes": 5958078,
+  "sha256": "c604e8042d19a9024e7a7967e88d930869c5de2ba8dc993ba59107c9d1fddd14"
+ },
+ {
+  "file": "projects/",
+  "files": 11641,
+  "bytes": 171117372
+ }
+]
